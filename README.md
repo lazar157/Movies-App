@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # vue-project
 
 This template should help get you started developing with Vue 3 in Vite.
@@ -27,3 +28,7 @@ npm run dev
 ```sh
 npm run build
 ```
+=======
+# Movies-App
+Search Movies app, Vue 3 Composition API
+>>>>>>> c6260128be61ae99992d1aea024844b44068f9c1
